@@ -8,7 +8,7 @@ Absolutely none
 The following list is by order of importance:
 <ol>
   <li>Professional Human</li>
-  <li>不能腳踏實地，卻天馬行空也</li>
+  <li>不能腳踏實地，卻天馬行空也*</li>
   <li>Full-time Idiot</li>
   <li>Crippling Rice Addict</li>
   <li>Tea Enjoyer</li>
@@ -33,3 +33,4 @@ The following list is by order of importance:
 Student by day. At night, I sleep.
 
 #### For more information visit <a href="acertainpersons.github.io">acertainpersons.github.io</a>
+#### * For translation, please just speak with someone who is fluent in Chinese. No translator can translate <a href="https://en.wikipedia.org/wiki/Chengyu">chengyu</a> with 100% accuracy
