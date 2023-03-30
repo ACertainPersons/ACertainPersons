@@ -4,20 +4,22 @@
 ## Achievements:
 Absolutely none
 
-## What I am:
+## What I Am:
 The following list is by order of importance:
 <ol>
   <li>Professional Human</li>
+  <li>不能腳踏實地，卻天馬行空也</li>
   <li>Full-time Idiot</li>
   <li>Crippling Rice Addict</li>
   <li>Tea Enjoyer</li>
+  <li>Aspiring Chemist</li>
   <li>Mediocre Pianist</li>
   <li>Classical Music Fan [especially Shostakovich and Bach]
   <li>Horrible Chess Player</li>
   <li>Fake Programmer</li>
-  <li>Climate Change Contributer</li>
   <li>Centrist</li>
   <li>Political Satire Enjoyer</li>
+  <li>Fan of History Memes</li>
 </ol>
 
 ## Top 3 Composers:
@@ -27,4 +29,7 @@ The following list is by order of importance:
   <li>Prokofiev</li>
 </ol>
 
-For more information visit <a href="acertainpersons.github.io">acertainpersons.github.io</a>
+## What I Do:
+Student by day. At night, I sleep.
+
+#### For more information visit <a href="acertainpersons.github.io">acertainpersons.github.io</a>
