@@ -14,7 +14,7 @@ The following list is by order of importance:
   <li>Tea Enjoyer</li>
   <li>Aspiring Chemist</li>
   <li>Mediocre Pianist</li>
-  <li>Classical Music Fan [especially Shostakovich and Bach]
+  <li>Classical Music Fan</li>
   <li>Horrible Chess Player</li>
   <li>Fake Programmer</li>
   <li>Centrist</li>
