@@ -33,5 +33,5 @@ The following list is by order of importance:
 ## What I Do:
 Student by day. At night, I sleep.
 
-#### For more information visit <a href="acertainpersons.github.io">acertainpersons.github.io</a>
+#### For more information visit acertainpersons.github.io
 #### * For translation, please just speak with someone who is fluent in Chinese. No translator can translate <a href="https://en.wikipedia.org/wiki/Chengyu">chengyu</a> with 100% accuracy
