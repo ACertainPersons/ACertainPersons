@@ -18,7 +18,7 @@ The following list is by order of importance:
   <li>Horrible Chess Player</li>
   <li>Fake Programmer</li>
   <li>Bad Flautist</li>
-  <li>Centrist</li>
+  <li>Socialist</li>
   <li>Political Satire Enjoyer</li>
   <li>Fan of History Memes</li>
 </ol>
